@@ -1,0 +1,25 @@
+name: "Add a product"
+description: "Suggest an AI product for the archive."
+title: "[Product] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "Product name"
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: "Product link"
+      description: "The product website or another relevant link."
+      placeholder: "https://…"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "A short description of the product, if you have one."
+    validations:
+      required: false
