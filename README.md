@@ -12,7 +12,7 @@ A list of discontinued AI products and announced closures, preserving what they 
 
 ## The list
 
-20 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
+21 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
 
 | Product | What it did | Archive / source |
 | --- | --- | --- |
@@ -36,6 +36,7 @@ A list of discontinued AI products and announced closures, preserving what they 
 | [Sora](data/products/sora-consumer.json) | An AI video creation service for generating, editing and sharing videos through a standalone website and app. | [We Used This](https://weusedthis.com/products/sora-consumer) |
 | [Tome Slides](data/products/tome-slides.json) | An AI creation tool that turned a prompt or document into an illustrated presentation ready to edit and present. | [We Used This](https://weusedthis.com/products/tome-slides) |
 | [Yupp](data/products/yupp.json) | An AI router that let users compare prompts across hundreds of large language models and keep user-visible credits and rewards. | [We Used This](https://weusedthis.com/products/yupp) |
+| [Zeabur AI Hub](data/products/zeabur-ai-hub.json) | A unified AI model API gateway for developers to manage provider access and costs, permanently discontinued after a security incident. | [Official source](https://zeabur.cn/changelogs/aihub-shutdown) |
 
 ## Add a product
 
