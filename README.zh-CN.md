@@ -12,7 +12,7 @@
 
 ## 产品清单
 
-共 20 个条目。部分档案仅涵盖某个 App、服务或模型使用体验；具体范围和预定停运状态请查看网站档案或所列官方来源。
+共 21 个条目。部分档案仅涵盖某个 App、服务或模型使用体验；具体范围和预定停运状态请查看网站档案或所列官方来源。
 
 | 产品 | 简介（英文） | 档案 / 来源 |
 | --- | --- | --- |
@@ -36,6 +36,7 @@
 | [Sora](data/products/sora-consumer.json) | An AI video creation service for generating, editing and sharing videos through a standalone website and app. | [We Used This](https://weusedthis.com/zh/products/sora-consumer) |
 | [Tome Slides](data/products/tome-slides.json) | An AI creation tool that turned a prompt or document into an illustrated presentation ready to edit and present. | [We Used This](https://weusedthis.com/zh/products/tome-slides) |
 | [Yupp](data/products/yupp.json) | An AI router that let users compare prompts across hundreds of large language models and keep user-visible credits and rewards. | [We Used This](https://weusedthis.com/zh/products/yupp) |
+| [Zeabur AI Hub](data/products/zeabur-ai-hub.json) | A unified AI model API gateway for developers to manage provider access and costs, permanently discontinued after a security incident. | [官方来源](https://zeabur.cn/changelogs/aihub-shutdown) |
 
 ## 补充产品
 
