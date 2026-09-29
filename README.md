@@ -12,7 +12,7 @@ A list of discontinued AI products and announced closures, preserving what they 
 
 ## The list
 
-21 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
+22 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
 
 | Product | What it did | Archive / source |
 | --- | --- | --- |
@@ -35,6 +35,7 @@ A list of discontinued AI products and announced closures, preserving what they 
 | [Reve](data/products/reve.json) | An AI image and video creation app with layout-aware editing, scheduled to stop new generations after September 27, 2026. | [Official source](https://help.reve.com/hc/en-us/articles/53569023228180-Downloading-Your-Reve-Assets) |
 | [Sora](data/products/sora-consumer.json) | An AI video creation service for generating, editing and sharing videos through a standalone website and app. | [We Used This](https://weusedthis.com/products/sora-consumer) |
 | [Tome Slides](data/products/tome-slides.json) | An AI creation tool that turned a prompt or document into an illustrated presentation ready to edit and present. | [We Used This](https://weusedthis.com/products/tome-slides) |
+| [Youper](data/products/youper.json) | An AI-powered emotional wellbeing chatbot for mood check-ins, reflection and journaling, scheduled to end all services on September 30, 2026. | [Official source](https://www.youper.ai/notice) |
 | [Yupp](data/products/yupp.json) | An AI router that let users compare prompts across hundreds of large language models and keep user-visible credits and rewards. | [We Used This](https://weusedthis.com/products/yupp) |
 | [Zeabur AI Hub](data/products/zeabur-ai-hub.json) | A unified AI model API gateway for developers to manage provider access and costs, permanently discontinued after a security incident. | [Official source](https://zeabur.cn/changelogs/aihub-shutdown) |
 
