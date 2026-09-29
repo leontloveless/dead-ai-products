@@ -12,7 +12,7 @@ A list of discontinued AI products and announced closures, preserving what they 
 
 ## The list
 
-22 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
+23 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
 
 | Product | What it did | Archive / source |
 | --- | --- | --- |
