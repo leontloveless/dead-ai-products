@@ -12,11 +12,12 @@
 
 ## 产品清单
 
-共 21 个条目。部分档案仅涵盖某个 App、服务或模型使用体验；具体范围和预定停运状态请查看网站档案或所列官方来源。
+共 22 个条目。部分档案仅涵盖某个 App、服务或模型使用体验；具体范围和预定停运状态请查看网站档案或所列官方来源。
 
 | 产品 | 简介（英文） | 档案 / 来源 |
 | --- | --- | --- |
 | [Artifact](data/products/artifact.json) | An AI-driven personalized news reader and discovery feed that ranked stories and adapted to each user's interests. | [We Used This](https://weusedthis.com/zh/products/artifact) |
+| [BA Copilot Cloud](data/products/ba-copilot-cloud.json) | BA Copilot's AI-powered process-mapping cloud service, closed on September 15, 2026 while its offline Local Edition remained available. | [官方来源](https://ba-copilot.com/closure) |
 | [ChatGPT Atlas](data/products/chatgpt-atlas.json) | A standalone web browser with ChatGPT built in for asking about pages, remembering browsing context and carrying out browser tasks. | [We Used This](https://weusedthis.com/zh/products/chatgpt-atlas) |
 | [Cortana](data/products/cortana.json) | Microsoft's voice assistant for questions, reminders, search, calendar tasks and email across Windows and Microsoft 365. | [We Used This](https://weusedthis.com/zh/products/cortana) |
 | [DALL·E](data/products/dall-e.json) | OpenAI's dedicated image-generation GPT in ChatGPT, where people described ideas in words to create pictures and refine their prompts. | [We Used This](https://weusedthis.com/zh/products/dall-e) |

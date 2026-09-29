@@ -12,11 +12,12 @@ A list of discontinued AI products and announced closures, preserving what they 
 
 ## The list
 
-21 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
+22 entries. Some records cover a specific app, service or model experience rather than every service under the same brand. See the website archives or linked official sources for scope and scheduled-closure status.
 
 | Product | What it did | Archive / source |
 | --- | --- | --- |
 | [Artifact](data/products/artifact.json) | An AI-driven personalized news reader and discovery feed that ranked stories and adapted to each user's interests. | [We Used This](https://weusedthis.com/products/artifact) |
+| [BA Copilot Cloud](data/products/ba-copilot-cloud.json) | BA Copilot's AI-powered process-mapping cloud service, closed on September 15, 2026 while its offline Local Edition remained available. | [Official source](https://ba-copilot.com/closure) |
 | [ChatGPT Atlas](data/products/chatgpt-atlas.json) | A standalone web browser with ChatGPT built in for asking about pages, remembering browsing context and carrying out browser tasks. | [We Used This](https://weusedthis.com/products/chatgpt-atlas) |
 | [Cortana](data/products/cortana.json) | Microsoft's voice assistant for questions, reminders, search, calendar tasks and email across Windows and Microsoft 365. | [We Used This](https://weusedthis.com/products/cortana) |
 | [DALL·E](data/products/dall-e.json) | OpenAI's dedicated image-generation GPT in ChatGPT, where people described ideas in words to create pictures and refine their prompts. | [We Used This](https://weusedthis.com/products/dall-e) |
