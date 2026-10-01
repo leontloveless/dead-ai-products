@@ -1,0 +1,5 @@
+{
+  "name": "Evals",
+  "website": "https://platform.openai.com/evaluations",
+  "description": "A hosted evaluation service for defining tests, running them against AI model outputs and analyzing results through a dashboard and API."
+}
