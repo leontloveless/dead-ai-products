@@ -1,0 +1,5 @@
+{
+  "name": "InferKit",
+  "website": "https://inferkit.com/",
+  "description": "An AI writing web app that generated text from a supplied prompt, with a separate browser interface for writers alongside its developer API."
+}
