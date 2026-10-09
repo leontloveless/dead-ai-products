@@ -1,0 +1,5 @@
+{
+  "name": "CodeParrot AI",
+  "website": "https://codeparrot.ai/",
+  "description": "An AI design-to-code tool that converted Figma components and screenshots into frontend code through a dedicated VS Code extension, using a developer's existing components and coding preferences."
+}
