@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Lookout for Metrics",
+  "website": "https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-lookout-for-metrics-generally-available/",
+  "description": "A managed AI monitoring workspace for connecting time-series data, detecting and grouping anomalies, investigating likely causes and configuring alerts."
+}

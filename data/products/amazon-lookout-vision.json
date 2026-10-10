@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Lookout for Vision",
+  "website": "https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/",
+  "description": "An AI visual-inspection workspace for uploading and labeling images, training defect-detection models, evaluating them and reviewing manufacturing anomalies in a console dashboard."
+}

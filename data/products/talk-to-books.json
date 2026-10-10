@@ -1,0 +1,5 @@
+{
+  "name": "Talk to Books",
+  "website": "https://books.google.com/talktobooks/",
+  "description": "A standalone experimental AI service that answered natural-language queries with semantically matched book passages."
+}

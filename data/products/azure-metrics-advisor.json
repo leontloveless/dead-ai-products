@@ -1,0 +1,5 @@
+{
+  "name": "Azure AI Metrics Advisor",
+  "website": "https://learn.microsoft.com/en-us/previous-versions/azure/ai-services/metrics-advisor/overview",
+  "description": "An AI monitoring workspace for ingesting multi-dimensional time-series data, finding anomalies, diagnosing likely root causes and configuring notifications without ML expertise."
+}
