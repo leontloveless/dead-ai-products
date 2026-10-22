@@ -1,0 +1,5 @@
+{
+  "name": "OtterTune",
+  "website": "https://ottertune.com/",
+  "description": "A machine-learning database optimization service that monitored PostgreSQL and MySQL workloads, learned configuration effects and tuned settings to improve performance and infrastructure costs."
+}
