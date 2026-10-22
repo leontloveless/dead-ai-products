@@ -1,0 +1,5 @@
+{
+  "name": "ConstructAI",
+  "website": "https://constructai.la/",
+  "description": "An AI construction workflow for reading PDF drawings, reviewing detected elements and generating native Revit BIM models with structural and reinforcement details."
+}
